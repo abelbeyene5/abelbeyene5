@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Abel, I recently graduated in computer science and ready to put my skills to work.</div>  
+### ***<div align="center">I'm Abel, I recently graduated in computer science and ready to put my skills to work.</div>***  
   
 
--  👀 I’m interested in Web development and Flutter  
+-  👀 I’m interested in Web development and Flutter.  
   
 
 - 🌱 I’m currently learning Python  
