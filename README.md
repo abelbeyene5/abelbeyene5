@@ -9,7 +9,7 @@
 -  👀 I’m interested in Web development and Flutter.  
   
 
-- 🌱 I’m currently learning Python  
+- 🌱 I’m currently Working in Python  
   
 
 <br/>  
